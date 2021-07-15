@@ -12,7 +12,13 @@ integrantes:
 
 1.OBJETIVOS
 
-2.REQUISITOS PREVIOS
+2.Marco Teorico
+
+![laboratorio 4 -1](https://user-images.githubusercontent.com/81887698/125847951-122c44ce-e919-43bb-8c0e-c076ed178cfa.PNG)
+EJEMPLOS:
+
+![laboratoria 4-2](https://user-images.githubusercontent.com/81887698/125847981-b7e98460-9b44-4e4d-ac2f-9814347fe5b2.PNG)
+
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
