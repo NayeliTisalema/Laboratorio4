@@ -2,8 +2,6 @@
 
 integrantes:
 
--Josue Pillajo
-
 -Bryan Simbaña
 
 -Johan Taipicaña
