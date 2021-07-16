@@ -126,6 +126,8 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 5. Video 
 
+https://youtu.be/OE2hT_MbpTA
+
 6.CONCLUSIONES
 
 -El método o teorema de superposición es de Gran utilidad para analizar circuitos que tengan dos o más Fuentes ya que al analizar puente por Puente del Análisis resulta más sencillo de realizar
